@@ -1,3 +1,4 @@
+// console.log('消息说明','打印的内容')
 console.log('我说','HelloWorld!')
 
 @Entry
