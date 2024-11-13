@@ -6,7 +6,7 @@
 - 本人认为了解了原先语言的基本知识和我列出的语法，对比差异和相似处，是较好掌握的
 
 ### 数据的存储
-- 见 [01-数据的存储.ets](..%2F..%2Fentry%2Fsrc%2Fmain%2Fets%2Fpages%2F01-%CA%FD%BE%DD%B5%C4%B4%E6%B4%A2.ets)
+- 见 [01-数据的存储.ets]
 #### 类型
 - `number` 和 `Number` 类型，任何整数和浮点数都可以被赋值给此类型的变量。
 - `boolean` 类型由 `true` 和 `false` 两个逻辑值组成。
@@ -28,7 +28,7 @@ const hello: string = 'hello';
 ```
 
 ### 数组
-见 [02-数组.ets](..%2F..%2Fentry%2Fsrc%2Fmain%2Fets%2Fpages%2F02-%CA%FD%D7%E9.ets)
+见 [02-数组.ets]
 
 ### 函数
 - 1.定义函数  2.调用函数  注意可根据返回值将函数输出赋值给变量
@@ -40,7 +40,7 @@ function 函数名(形参名: 形参类型) {
 // 调用函数
 函数名(实参)
 ```
-见 [03-函数的基本使用.ets](..%2F..%2Fentry%2Fsrc%2Fmain%2Fets%2Fpages%2F03-%BA%AF%CA%FD%B5%C4%BB%F9%B1%BE%CA%B9%D3%C3.ets)
+见 [03-函数的基本使用.ets]
 
 #### 箭头函数
 ```typescript
@@ -49,7 +49,7 @@ let 函数名 = (形参名: 形参类型) => {
 }
 函数名(实参)
 ``` 
-见 [05-箭头函数.ets](..%2F..%2Fentry%2Fsrc%2Fmain%2Fets%2Fpages%2F05-%BC%FD%CD%B7%BA%AF%CA%FD.ets)
+见 [05-箭头函数.ets]
 
 ### 接口 & 对象
 - 1.定义接口   2.基于接口，定义对象   3.获取对象属性值   对象名.属性名
@@ -76,8 +76,8 @@ let 对象名: 类名 = {
 
 // 3.获取对象属性值   对象名.属性名  对象名.方法名(实参)
 ```
-见 [06-接口&对象.ets](..%2F..%2Fentry%2Fsrc%2Fmain%2Fets%2Fpages%2F06-%BD%D3%BF%DA%26%B6%D4%CF%F3.ets)
-和 [07-对象方法.ets](..%2F..%2Fentry%2Fsrc%2Fmain%2Fets%2Fpages%2F07-%B6%D4%CF%F3%B7%BD%B7%A8.ets)
+见 [06-接口&对象.ets]
+和 [07-对象方法.ets]
 
 ### `Union`类型 联合类型
 - 由多个类型组成的引用类型。联合类型包含了变量可能的所有类型。
@@ -102,7 +102,7 @@ animal = new Frog();
 animal = 42;
 // 可以将类型为联合类型的变量赋值为任何组成类型的有效值
 ```
-见 [08-联合类型.ets](..%2F..%2Fentry%2Fsrc%2Fmain%2Fets%2Fpages%2F08-%C1%AA%BA%CF%C0%E0%D0%CD.ets)
+见 [08-联合类型.ets]
 
 ### 枚举类型 `Enum`类型
 - 是预先定义的一组命名值的值类型，其中命名值又称为枚举常量。
@@ -116,4 +116,6 @@ let c: ColorSet = ColorSet.Red;
 enum ColorSet { White = 0xFF, Grey = 0x7F, Black = 0x00 }
 let c: ColorSet = ColorSet.Black;
 ```
-见 [09-枚举类型.ets](..%2F..%2Fentry%2Fsrc%2Fmain%2Fets%2Fpages%2F09-%C3%B6%BE%D9%C0%E0%D0%CD.ets)
+见 [09-枚举类型.ets]
+
+
