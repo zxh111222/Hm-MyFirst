@@ -3,8 +3,8 @@
 - 请大家结合较新的资源进行整合、学习。
 
 ## How to master HarmonyOS?According wo this list,click
-- 准备工作： [README.md](md%2F%D7%BC%B1%B8%B9%A4%D7%F7%2FREADME.md)
-- 基础语法： [README.md](md%2F%BB%F9%B4%A1%D3%EF%B7%A8%2FREADME.md)
+- 准备工作： [README.md](md%2Fpreparation%2FREADME.md)
+- 基础语法： [README.md](md%2Fbasic_grammar%2FREADME.md)
 
 
 
