@@ -5,6 +5,7 @@
 ## How to master HarmonyOS?According wo this list,click
 - 准备工作： [README.md](md%2Fpreparation%2FREADME.md)
 - 基础语法： [README.md](md%2Fbasic_grammar%2FREADME.md)
+- 从一个简单的页面开始： [README.md](md%2Fstart_with_a_simple_page%2FREADME.md)
 
 
 
